@@ -1,4 +1,4 @@
-# Project 1 - Web Application
+# WanderLust (Basically Airnb_clone)
 
 ## Description
 This is a Node.js web application built with Express.js. It features listings, reviews, and user management functionalities. The application uses EJS for templating and includes routes, controllers, and models to handle the backend logic.
